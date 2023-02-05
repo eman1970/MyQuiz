@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz, ItaSAfA HT2022</string>
+    <string name="description_text">
+        Info om uppgiften...
+    </string>
+    <string name="enter_label">Enter</string>
+    <string name="home_label">Home</string>
+    <string name="quiz_label">Quiz</string>
+    <string name="quiz_header_label">Quiz questions</string>
+    <string name="textview">TextView</string>
+    <string name="button_quiz">Button quiz</string>
+    <string name="description">"Description "</string>
+    <string name="todo">TODO</string>
+    <string name="hello_world_hrllo_world">hello world hrllo world</string>
+    <string name="sant">Sant</string>
+    <string name="falskt">Falskt</string>
+    <string name="text_antal">textAntal</string>
+    <string name="textStatement">textStatement</string>
+    <string name="cartImage">cartImage</string>
+    <string name="starta_quiz">Starta Quiz</string>
+    <string name="textAntal">0</string>
+    <string name="text_info">På nästa sida får du se ett antal Statements som du ska svara Sant eller Falsk på. \nLycka till!</string>
+</resources>

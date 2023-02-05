@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-48:/layout/content_scrolling.xml",
+        "source": "com.example.myapplication.app-main-51:/layout/content_scrolling.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-48:/layout/fragment_quiz.xml",
+        "source": "com.example.myapplication.app-main-51:/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.example.myapplication.app-main-51:/layout/fragment_home.xml"
+    }
+]
